@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Trent Gong">
+  <title>Trent's Personal Site</title>
+</head>
+
+<body>
+  <img src="images/Trent Gong.jpg" alt="profile picture">
+  <h1>Trent Gong</h1>
+  <p><em>Junior in <strong><a href="https://www.vhstigers.org/">Valencia High</a></strong>.</em></p>
+  <br>
+  <p>
+    I am a high school junior. I am 17 years old.
+    </p>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+      <li>...</li>
+      <li>...</li>
+      <li>...</li>
+    </ul>
+    <h3>My Hobbies</h3>
+    <ol>
+      <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Pop Music</a></li>
+      <li>Tennis</li>
+      <img src="images/Tennis.jpg" alt="tennis picture">
+      <li>Yu-Gi-Oh</li>
+      <img src="images/Firewall eXceed Dragon.jpg" alt="YGO picture">
+      <li>Animes</li>
+      <img src="images/Gundam Unicorn.jpg" alt="anime picture">
+      <li>Video Games</li>
+    </ol>
+</body>
+
+</html>
